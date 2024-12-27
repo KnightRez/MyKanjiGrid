@@ -1,6 +1,6 @@
 # Kanji Grid
-The grid is generated using the [Kanji Grid](https://ankiweb.net/shared/info/909972618) addon in Anki.
+The grid can be viewed at https://knightrez.github.io/MyKanjiGrid/
 
-Strong cards have a 1 year interval.
+It was generated using the [Kanji Grid](https://ankiweb.net/shared/info/909972618) addon in Anki based on my vocab cards.
 
-Sorted by JLPT level.
+Strong cards have a 1 year interval, sorted by JLPT level.
